@@ -1,0 +1,6 @@
+{
+  "name": "Zoya AI Assistant",
+  "description": "Zoya: A sassy, witty voice assistant that executes real-time phone actions, schedules meetings, and manages your life with charm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
